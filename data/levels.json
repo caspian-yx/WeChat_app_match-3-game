@@ -1,0 +1,92 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "name": "教程关",
+      "icon": "📖",
+      "rows": 4,
+      "cols": 4,
+      "maxSteps": 15,
+      "targetScore": 300,
+      "elementTypes": 3,
+      "unlocked": true
+    },
+    {
+      "id": 2,
+      "name": "深圳",
+      "icon": "🏙️",
+      "rows": 5,
+      "cols": 5,
+      "maxSteps": 18,
+      "targetScore": 500,
+      "elementTypes": 4,
+      "unlocked": false
+    },
+    {
+      "id": 3,
+      "name": "东莞",
+      "icon": "🏭",
+      "rows": 5,
+      "cols": 5,
+      "maxSteps": 20,
+      "targetScore": 650,
+      "elementTypes": 4,
+      "unlocked": false
+    },
+    {
+      "id": 4,
+      "name": "珠海",
+      "icon": "🌊",
+      "rows": 5,
+      "cols": 6,
+      "maxSteps": 22,
+      "targetScore": 850,
+      "elementTypes": 4,
+      "unlocked": false
+    },
+    {
+      "id": 5,
+      "name": "中山",
+      "icon": "🏯",
+      "rows": 6,
+      "cols": 6,
+      "maxSteps": 25,
+      "targetScore": 1100,
+      "elementTypes": 5,
+      "unlocked": false
+    },
+    {
+      "id": 6,
+      "name": "江门",
+      "icon": "🌉",
+      "rows": 6,
+      "cols": 6,
+      "maxSteps": 28,
+      "targetScore": 1400,
+      "elementTypes": 5,
+      "unlocked": false
+    },
+    {
+      "id": 7,
+      "name": "佛山",
+      "icon": "🗿",
+      "rows": 6,
+      "cols": 7,
+      "maxSteps": 32,
+      "targetScore": 1800,
+      "elementTypes": 5,
+      "unlocked": false
+    },
+    {
+      "id": 8,
+      "name": "广州",
+      "icon": "🗼",
+      "rows": 7,
+      "cols": 7,
+      "maxSteps": 35,
+      "targetScore": 2200,
+      "elementTypes": 6,
+      "unlocked": false
+    }
+  ]
+}
